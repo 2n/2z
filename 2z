@@ -1,0 +1,5 @@
+A,B: 201A-BB-10 17:00
+C: HP(ML)
+D: KUPPAKU
+E = A * B * C * D
+F = E - 4,016,000
